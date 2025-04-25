@@ -1,30 +1,27 @@
-require("dotenv").config({ path: ".env"});
+require('dotenv').config();
+const express = require('express');
+const cors = require('cors');
+const path = require('path');
 
-var express = require("express");
-var cors = require("cors");
-var path = require("path");
-var PORTA_APP = process.env.APP_PORT;
-var HOST_APP = process.env.APP_HOST;
+// Configurações básicas
+const app = express();
+const port = process.env.APP_PORT || 3000;
 
-var app = express();
-
-var indexRouter = require("./src/routes/rotas");
-var jiraRouter = require("./src/routes/jira");
-
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(express.static(path.join(__dirname, "public")));
 
 app.use(cors());
+app.use(express.json());
+app.use(express.static(path.join(__dirname, 'public')));
 
-app.use("/", indexRouter);
-app.use("/jira", jiraRouter);
 
-app.listen(PORTA_APP, function () {
-    console.log(`                                                                                           
-    Servidor já está rodando! http://${HOST_APP}:${PORTA_APP} :. \n\n
-    Você está rodando sua aplicação em ambiente de .:${process.env.AMBIENTE_PROCESSO}:. \n\n
-    \tSe .:desenvolvimento:. você está se conectando ao banco local. \n
-    \tSe .:producao:. você está se conectando ao banco remoto. \n\n
-    \t\tPara alterar o ambiente, comente ou descomente as linhas 1 ou 2 no arquivo 'app.js'\n\n`);
+app.use('/csv', require('./routes/csv'));
+app.use('/jira', require('./routes/jira'));
+
+
+app.listen(port, () => {
+  console.log(`
+  ==================================
+   Servidor rodando na porta ${port}
+   Ambiente: ${process.env.AMBIENTE_PROCESSO}
+  ==================================
+  `);
 });
