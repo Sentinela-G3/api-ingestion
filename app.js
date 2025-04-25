@@ -20,8 +20,9 @@ app.use('/jira', require('./routes/jira'));
 app.listen(port, () => {
   console.log(`
   ==================================
-   Servidor rodando na porta ${port}
-   Ambiente: ${process.env.AMBIENTE_PROCESSO}
+    Servidor rodando na porta ${port}
+    Ambiente: ${process.env.AMBIENTE_PROCESSO}
   ==================================
   `);
+  require('./main'); 
 });

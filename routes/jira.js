@@ -1,6 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const { createTicket, listTickets } = require('../controllers/jiraService');
+var jiraController = require("../controllers/jiraService");
+
+router.get("/registrosAlertas", function (req, res) {
+  jiraController.registrosAlertas(req, res);
+})
 
 router.post('/create-ticket', async (req, res) => {
   const { summary, description, priority } = req.body;

@@ -1,5 +1,7 @@
 const axios = require('axios');
 require('dotenv').config();
+var capturaModel = require("../models/capturaModel");
+
 
 const { JIRA_URL, EMAIL, API_TOKEN } = process.env;
 
@@ -45,7 +47,24 @@ async function listTickets() {
   }
 }
 
+
+function registrosAlertas(req, res) {
+  capturaModel.obterCaptura(fkEmpresa)
+      .then(resultado => {
+          if (resultado.length > 0) {
+              res.json(resultado);
+          } else {
+              res.status(404).send("Nenhum registro encontrado!");
+          }
+      })
+      .catch(erro => {
+          console.error("Erro ao buscar regristros:", erro);
+          res.status(500).json(erro.sqlMessage);
+      });
+}
+
 module.exports = {
   createTicket,
-  listTickets
+  listTickets,
+  registrosAlertas
 };
