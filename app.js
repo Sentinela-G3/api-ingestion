@@ -14,7 +14,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use('/csv', require('./routes/csv'));
-app.use('/jira', require('./routes/jira'));
 
 
 app.listen(port, () => {
@@ -24,5 +23,4 @@ app.listen(port, () => {
     Ambiente: ${process.env.AMBIENTE_PROCESSO}
   ==================================
   `);
-  require('./main'); 
 });
