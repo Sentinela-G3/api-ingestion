@@ -1,0 +1,1472 @@
+[
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 4,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.400001525878906,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.41717529296875,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.597381591796875,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.009769439697265625,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.023377418518066406,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8358333110809326,
+    "timestamp": "2025-04-27 17:59:03"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 5.099999904632568,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 63.900001525878906,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.417724609375,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.809207916259766,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.01125335693359375,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2027454376220703,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8463028073310852,
+    "timestamp": "2025-04-27 17:59:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 1.7999999523162842,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.599998474121094,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.41751098632812,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.753913879394531,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.025478363037109375,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2614269256591797,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8568111062049866,
+    "timestamp": "2025-04-27 18:00:21"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 2.700000047683716,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.20000076293945,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45443725585938,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.53677749633789,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014658927917480469,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.3119850158691406,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8672916889190674,
+    "timestamp": "2025-04-27 18:00:58"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 3.5999999046325684,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.70000076293945,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45462036132812,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.644699096679688,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014882087707519531,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2878885269165039,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8777360916137695,
+    "timestamp": "2025-04-27 18:01:36"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 6.599999904632568,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.20000076293945,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45489501953125,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.579444885253906,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.012564659118652344,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.1714916229248047,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.8881833553314209,
+    "timestamp": "2025-04-27 18:02:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 7.5,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.5,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45220947265625,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.527873992919922,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014940261840820312,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2854938507080078,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.898638904094696,
+    "timestamp": "2025-04-27 18:02:51"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 7.400000095367432,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.400001525878906,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45257568359375,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.597415924072266,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014380455017089844,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.24433422088623047,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9090750217437744,
+    "timestamp": "2025-04-27 18:03:29"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 3.4000000953674316,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.5,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.4527587890625,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.67507553100586,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.0193328857421875,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.1939220428466797,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9201388955116272,
+    "timestamp": "2025-04-27 18:04:07"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 2.0999999046325684,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 63,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45315551757812,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.689788818359375,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.015294075012207031,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.17610836029052734,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9306444525718689,
+    "timestamp": "2025-04-27 18:04:46"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 7.699999809265137,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.70000076293945,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.4519805908203,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.618656158447266,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.01419830322265625,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.22065067291259766,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9411222338676453,
+    "timestamp": "2025-04-27 18:05:24"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 4.699999809265137,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 62.79999923706055,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.452392578125,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.64865493774414,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.0025177001953125,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.21480083465576172,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9516361355781555,
+    "timestamp": "2025-04-27 18:06:02"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 3,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 60.400001525878906,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.4524688720703,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.269935607910156,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014650344848632812,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.3291807174682617,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9625666737556458,
+    "timestamp": "2025-04-27 18:06:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 2.0999999046325684,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 60.5,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45248413085938,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.321601867675781,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.009005546569824219,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.15337085723876953,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9731083512306213,
+    "timestamp": "2025-04-27 18:07:19"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 3.299999952316284,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 59.599998474121094,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.4530029296875,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.168079376220703,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.015557289123535156,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2707948684692383,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9835749864578247,
+    "timestamp": "2025-04-27 18:07:57"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 6.800000190734863,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 60.5,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45291137695312,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.297927856445312,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.01911163330078125,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.285888671875,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9942722320556641,
+    "timestamp": "2025-04-27 18:08:35"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 1.2000000476837158,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 60.70000076293945,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45309448242188,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.364200592041016,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.006009101867675781,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.20518779754638672,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 0.9996528029441833,
+    "timestamp": "2025-04-27 18:09:14"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 1,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 60.70000076293945,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.45321655273438,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 9.351585388183594,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.015102386474609375,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.1737384796142578,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 1.0030750036239624,
+    "timestamp": "2025-04-27 18:09:30"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 1.7000000476837158,
+    "timestamp": "2025-04-27 18:09:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:09:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 61,
+    "timestamp": "2025-04-27 18:09:43"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 1.399999976158142,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 56.70000076293945,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.4620819091797,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 8.766593933105469,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.013272285461425781,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.27930164337158203,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 1.1355555057525635,
+    "timestamp": "2025-04-27 18:17:25"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 2.5,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 57.400001525878906,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.46023559570312,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 8.866188049316406,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.029710769653320312,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.2267608642578125,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "battery_percent",
+    "value": 0,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_freq",
+    "value": 3.9010000228881836,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "uptime_hours",
+    "value": 1.1403000354766846,
+    "timestamp": "2025-04-27 18:17:40"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "cpu_percent",
+    "value": 8.899999618530273,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_percent",
+    "value": 83.5999984741211,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_percent",
+    "value": 57.900001525878906,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "disk_usage_gb",
+    "value": 186.453369140625,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "ram_usage_gb",
+    "value": 8.892478942871094,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_upload",
+    "value": 0.014408111572265625,
+    "timestamp": "2025-04-27 18:17:56"
+  },
+  {
+    "id_maquina": 4,
+    "serial_number": "7C59A1A8-88AA-0000-0000-000000000000",
+    "metric_type": "net_download",
+    "value": 0.19614601135253906,
+    "timestamp": "2025-04-27 18:17:56"
+  }
+]

@@ -14,6 +14,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use('/csv', require('./routes/csv'));
+app.use('/json', require('./routes/json'));
 
 
 app.listen(port, () => {
